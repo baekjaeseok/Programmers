@@ -1,4 +1,4 @@
--- 코드를 입력하세요
+-- DATEDIFF('종료일', '시작일')
 SELECT HISTORY_ID,
        CAR_ID,
        DATE_FORMAT(START_DATE, "%Y-%m-%d") AS START_DATE,
